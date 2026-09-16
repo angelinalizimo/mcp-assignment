@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "task-manager": {
+      "command": "C:\\path\\to\\anaconda3\\envs\\mcp-env\\python.exe",
+      "args": [
+        "C:\\path\\to\\mcp-assignment\\server.py"
+      ],
+      "env": {
+        "API_TOKEN": "replace-with-your-own-secret"
+      }
+    }
+  }
+}
